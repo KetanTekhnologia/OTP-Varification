@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016984430150",
+    "project_id": "otpvarification-e3388",
+    "storage_bucket": "otpvarification-e3388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016984430150:android:9893b0bed12ebd0f654c47",
+        "android_client_info": {
+          "package_name": "com.example.otp_varification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl2YSQkbdf8o4IhSb6CMXWC5I3yQlSCm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
